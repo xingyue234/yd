@@ -1,0 +1,4 @@
+User-agent: *
+
+    
+Sitemap: http://w-28658-16033-59921.47521176.sites.hk39.qifeiye.com/index.php?xml_sitemap=params=
